@@ -1,4 +1,4 @@
 # gitdemo
 fist git demo
 <br>
-Author -> Henna Mohanan
+Author -> Henna Mohanan and Nikhil Unnikrishnan
